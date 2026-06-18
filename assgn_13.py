@@ -26,3 +26,5 @@ print('Trade Value:', trade_value)
 print('Brokerage:', brokerage)  
 print('GST on Brokerage:', gst)
 print('Total Cost:', total_cost)
+
+##hjkm;,l;.df

@@ -13,7 +13,7 @@ def validate_trxns(transactions):
     return total_trxns, total_no_of_success_trxns, total_amount_of_success_trxns
 
 print(validate_trxns(transactions)) 
-
+#----------------------------------------
 
 transactions = [
     {"txn_id": "T001", "type": "SIP",        "amount": 5000,  "status": "SUCCESS"},
